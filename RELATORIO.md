@@ -2,7 +2,7 @@
 
 ## 1. Nome dos alunos:
 
-- Breno Luíz Ferreira
+- Breno Luiz da Silva Ferreira
 - Caique Pinto da Costa
 
 ## 2. Repositório
@@ -19,4 +19,4 @@ Link:
 
   ## 4. O que foi desenvolvido?
 
-  A aplicação
+  A aplicação desenvolvida é uma calculadora básica.
