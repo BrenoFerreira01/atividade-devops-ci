@@ -19,4 +19,24 @@ Link:
 
   ## 4. O que foi desenvolvido?
 
-  A aplicação desenvolvida é uma calculadora básica.
+  A aplicação desenvolvida é uma calculadora básica. Importando bibliotecas de matemática para a execução da aplicação.
+
+  ## 5. Como funciona a pipeline?
+
+  ----
+
+  ## 6. Teste realizado
+
+  ----
+
+  ## 7. Falha proposital
+
+  ----
+
+  ## 8. Resultado
+
+  ----
+
+  ## 9. Conclusão
+
+  
