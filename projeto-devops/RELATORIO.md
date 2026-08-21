@@ -33,7 +33,7 @@ Link: https://github.com/BrenoFerreira01/atividade-devops-ci
 
   ## 7. Falha proposital
 
-  Na etapa B, foi criado um erro proposital. Foi trocado o operador matemático da função de soma, tornando-a uma subtração.
+  Na etapa A, foi criado um erro proposital. Foi trocado o operador matemático da função de soma, tornando-a uma subtração.
 
 ![[D:\BRENO\Documentos\_0 PROGRAMACAO\atividade-devops-ci\img\ETAPA B.png]]
 
