@@ -7,7 +7,7 @@
 
 ## 2. Repositório
 
-Link:
+Link: https://github.com/BrenoFerreira01/atividade-devops-ci
 
 ## 3. Ferramentas utilizadas
 
@@ -29,13 +29,19 @@ Link:
 
   Desenvolveram-se três testes unitários para validar a assertividade de cada uma das funções (test_soma, test_subtracao e test_multiplicacao).
 
+![[D:\BRENO\Documentos\_0 PROGRAMACAO\atividade-devops-ci\img\ETAPA A.png]]
+
   ## 7. Falha proposital
 
   Na etapa B, foi criado um erro proposital. Foi trocado o operador matemático da função de soma, tornando-a uma subtração.
 
+![[D:\BRENO\Documentos\_0 PROGRAMACAO\atividade-devops-ci\img\ETAPA B.png]]
+
   ## 8. Resultado
 
   O pipeline barrou o código. O GitHub Actions executou o Pytest, o assert se tornou falso, obrigando a pipeline a gerar um alerta vermelho.
+
+![[D:\BRENO\Documentos\_0 PROGRAMACAO\atividade-devops-ci\img\ETAPA C.png]]
 
   ## 9. Conclusão
 
