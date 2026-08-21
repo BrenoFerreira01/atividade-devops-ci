@@ -31,7 +31,7 @@ Link:
 
   ## 7. Falha proposital
 
-  Na etapa B, foi criado um erro proposital. Foi trocado o operador matemático da função de soma, tornando-a uma subtração.
+  Na etapa A, foi criado um erro proposital. Foi trocado o operador matemático da função de soma, tornando-a uma subtração.
 
   ## 8. Resultado
 
