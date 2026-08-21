@@ -29,19 +29,19 @@ Toda vez que uma branch main é atualizda com o comando git push, a automação 
 
 Desenvolveram-se três testes unitários para validar a assertividade de cada uma das funções (test_soma, test_subtracao e test_multiplicacao).
 
-![ETAPA A](/img/ETAPA A.png)
+![ETAPA A](/img/ETAPA-A.png)
 
 ## 7. Falha proposital
 
 Na etapa B, foi criado um erro proposital. Foi trocado o operador matemático da função de soma, tornando-a uma subtração.
 
-![ETAPA B](/img/ETAPA B.png)
+![ETAPA B](/img/ETAPA-B.png)
 
 ## 8. Resultado
 
 O pipeline barrou o código. O GitHub Actions executou o Pytest, o assert se tornou falso, obrigando a pipeline a gerar um alerta vermelho.
 
-![ETAPA C](/img/ETAPA C.png)
+![ETAPA C](/img/ETAPA-C.png)
 
 ## 9. Conclusão
 
