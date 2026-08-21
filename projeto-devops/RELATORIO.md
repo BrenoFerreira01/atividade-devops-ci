@@ -7,7 +7,7 @@
 
 ## 2. Repositório
 
-Link:
+Link: https://github.com/BrenoFerreira01/atividade-devops-ci/tree/main
 
 ## 3. Ferramentas utilizadas
 
